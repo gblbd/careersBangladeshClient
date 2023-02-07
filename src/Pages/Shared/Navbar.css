@@ -1,0 +1,25 @@
+.navbar_bg {
+    background-color: rgba(135, 207, 235, 0.467);
+}
+
+.navlogo {
+    width: 115px;
+}
+
+
+.nav_btn {
+    font-size: 16px;
+    text-decoration: none;
+    color: #A51E67;
+    padding: 4px;
+    border-radius: 10px;
+    border: 0;
+    font-weight: bold;
+}
+
+.nav_btn:hover {
+    font-size: 16.5px;
+    color: white;
+    background-color: #A51E67;
+    border-radius: 8px;
+}
